@@ -483,13 +483,26 @@ Trabajo   Episódica  Semántica
 
 ---
 
-## Imágenes
+## Imágenes y documentación visual
 
-La documentación visual del proyecto se almacenará en:
+La documentación visual principal se encuentra en:
 
 ```text
 images/
 ```
+
+Actualmente incluye:
+
+- [Arquitectura general — Inteligencia en evolución continua](images/cortexmind-architecture.png)  
+  Documentación: [CORTEXMIND_ARCHITECTURE_IMAGE.md](docs/CORTEXMIND_ARCHITECTURE_IMAGE.md)
+
+- [Mapa funcional — Resonancia cognitiva](images/cortexmind-brain-mri.png)  
+  Documentación: [CORTEXMIND_BRAIN_MRI_IMAGE.md](docs/CORTEXMIND_BRAIN_MRI_IMAGE.md)
+
+- [Cerebro Digital — BrainPilot](images/cortexmind-brainpilot.png)  
+  Documentación: [CORTEXMIND_BRAINPILOT_IMAGE.md](docs/CORTEXMIND_BRAINPILOT_IMAGE.md)
+
+Consulta también [images/README.md](images/README.md) para el índice visual completo.
 
 Las imágenes son representaciones conceptuales de la arquitectura y no deben interpretarse como modelos médicos o neuroanatómicos exactos.
 
